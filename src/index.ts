@@ -1,3 +1,3 @@
-import './globals.css'
-
-export const MY_CLASS_NAME = ['m-3', 'p-2', 'border-red-400', 'border-green-200']
+import "./globals.css";
+export { Button } from "./comp/components/ui/button";
+export { Accordion } from "./comp/components/ui/accordion";
